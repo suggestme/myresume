@@ -1,0 +1,40 @@
+{
+  "basics":{
+    "photo":"2.png",
+    "name":"ravali",
+    "phone":"9012345678",
+    "email":"ravalidola01@gmail.com",
+    "Address":"(D/o)Venkataramana,ranastalam,A.P"
+  },
+"education":[{
+  "course":"B.tech(computer science and engineering)",
+  "institute":"sir crr engg",
+  "data":["2015-2019","80%"]
+},
+  {
+    "course":"inter(mpc)",
+    "institute":"narayana jr clg",
+    "data":["2013-2015","90%"]
+  },
+  {
+    "course":"ssc",
+    "institute":"RCM school",
+    "data":["2012-2013","90%"]
+  }
+],
+"skills":[
+  {
+  "name":"languages",
+  "data":["c","JAVA","php"]
+},
+{
+  "name":"web technologies",
+  "data":["HTML","CSS","php"]
+},
+{
+  "name":"os",
+  "data":["windows","linux","unix"]
+}
+
+]
+}
